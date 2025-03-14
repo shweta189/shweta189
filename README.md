@@ -18,8 +18,6 @@
 
 - 💬 Ask me about **Python,SQL,PowerBI,Machine Learning,NLP,Deep LearningNLP**
 
-- 📫 How to reach me **shwetarayadav@gmail.com | 7666740057**
-
 - ⚡ Fun fact **I like to watch animes 🍥🍜🦊**
 
 ### Blogs posts
